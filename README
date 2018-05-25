@@ -1,0 +1,12 @@
+Compilation 
+
+Write in terminal : 'make' in order to run the makefile and compile both clients and servers
+
+To run the program :
+
+1.first run the ServerRun.sh bashscript
+2.run the ClientRun.sh bashscript by putting the IP of the server in the bash
+3.portno is 2007
+4.If permissions are not given for the shells to run use chmod u+x
+
+
